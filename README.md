@@ -3,13 +3,14 @@
 This project focuses on developing a robust model for predicting fraudulent transactions and gaining insights for future improvements. The process involves several steps, including data cleaning, feature engineering, visualization, model development, and hyperparameter tuning.
 
 ## Table of Contents
-Data Cleaning
-Label Encoding
-Data Visualization
-Feature Selection
-Model Development
-Hyperparameter Tuning
-Conclusion
+-Data Cleaning</BR>
+-Label Encoding</BR>
+-Data Visualization</BR>
+-Feature Selection</BR>
+-Model Development</BR>
+-Hyperparameter Tuning</BR>
+-Conclusion</BR>
+
 ### Data Cleaning
 The first step in building the fraud detection model is to clean the dataset. This includes:
 
